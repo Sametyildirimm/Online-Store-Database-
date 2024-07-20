@@ -1,0 +1,2 @@
+SELECT * from Orders
+WHERE OrderDate BETWEEN '2024-08-14' AND '2024-08-30'

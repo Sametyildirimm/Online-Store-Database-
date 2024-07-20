@@ -1,0 +1,1 @@
+select Sum(Price)/Count(OrderDetailID) as ' Average order amount' from OrderDetails 
